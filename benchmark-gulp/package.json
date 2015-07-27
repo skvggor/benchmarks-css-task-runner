@@ -1,0 +1,13 @@
+{
+  "name": "benchmark-node-sass-vs-stylus",
+  "description": "A simple benchmark comparing the build time of SCSS and Stylus between Grunt and Gulp",
+  "author": "Marcos Garcia de Lima",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-stylus": "2.0.5",
+    "gulp-sass": "2.0.2",
+    "gulp-stats": "0.0.3",
+    "gulp-load": "^0.1.1"
+  }
+}
